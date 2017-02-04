@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UIEquipmentSlot" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAACAAAAACA=</HashCode>
+      <FileName>Assets\NGUI\Examples\Scripts\InventorySystem\Game\UIEquipmentSlot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItemSlot" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAUAAAAQAAAEABAAAABAAGACAAAAAAAAAQAUAABAICA=</HashCode>
+      <FileName>Assets\NGUI\Examples\Scripts\InventorySystem\Game\UIItemSlot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIStorageSlot" Collapsed="true">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAACAAAAACA=</HashCode>
+      <FileName>Assets\NGUI\Examples\Scripts\InventorySystem\Game\UIStorageSlot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleDragDropItem" Collapsed="true">
+    <Position X="12.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\NGUI\Examples\Scripts\Other\ExampleDragDropItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIButton" Collapsed="true">
+    <Position X="10" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAEBAgAAAIBCQgAwIJACAACiAAAAgQAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Interaction\UIButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIButtonColor" Collapsed="true">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAhAIACCAAAQQAAAIAAAAAAAABAIQNEABAAAEICqA=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Interaction\UIButtonColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIButtonKeys" Collapsed="true">
+    <Position X="0.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIAAAAAQAAIAAAAAAgAAAAAAAAAAAAAAAAAAAICAA=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Interaction\UIButtonKeys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIDragDropItem" Collapsed="true">
+    <Position X="12.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUCAAAg4PBAAAAAIABAAAQABAIBCIQIAAIAAAAC7kg=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Interaction\UIDragDropItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIGrid" Collapsed="true">
+    <Position X="1" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQUAABAkDCISGEQQAQMQIAAAAQIAMABAEAACRAAAAAI=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Interaction\UIGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIKeyNavigation" Collapsed="true">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAgAAASEAIIhAEIAIAAACoAAAIjIIAAAIAIAACAA=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Interaction\UIKeyNavigation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIPopupList" Collapsed="true">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FgIBQYaAgCBBOMYGCIsgaESuygAMaGmPACBYQmDSKQA=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Interaction\UIPopupList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIProgressBar" Collapsed="true">
+    <Position X="12.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQhAACBQDgUCIAAEAFgALAAgCAGiCAgAAIQAAAAQAA=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Interaction\UIProgressBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIScrollBar" Collapsed="true">
+    <Position X="12.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAABAAAAAAAAAEAAgABIAAAABAAAAACAAAAAAQAA=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Interaction\UIScrollBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UISlider" Collapsed="true">
+    <Position X="12.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIAAAgAAgIAAAmBAgIBAAAAAAAAAAAAAIAAAAAAQ=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Interaction\UISlider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UITable" Collapsed="true">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEBAABCISIEAAAAEQIAACAQAAEABAGAACBAACAAA=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Interaction\UITable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIToggle" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAFIwAEACAABAAAAAAACIgCwgAEADEIAAAIEIAACAA=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Interaction\UIToggle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIWidgetContainer" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Interaction\UIWidgetContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIBasicSprite">
+    <Position X="3" Y="12.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="UIBasicSprite.Type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\NGUI\Scripts\Internal\UIBasicSprite.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="UIBasicSprite.FillDirection" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\NGUI\Scripts\Internal\UIBasicSprite.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="UIBasicSprite.AdvancedType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\NGUI\Scripts\Internal\UIBasicSprite.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="UIBasicSprite.Flip" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\NGUI\Scripts\Internal\UIBasicSprite.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEASAEAAAAhQAAIQARMIAJKAEAAhKjQAgQAEAQQIAAg=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Internal\UIBasicSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIRect" Collapsed="true">
+    <Position X="5.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQgABAOAHiBIGDAEAEkARQgYCAImBQMEAgRQAGYTAA=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Internal\UIRect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIWidget">
+    <Position X="4.25" Y="11" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="UIWidget.Pivot" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\NGUI\Scripts\Internal\UIWidget.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Delegate Name="UIWidget.OnDimensionsChanged" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\NGUI\Scripts\Internal\UIWidget.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="UIWidget.OnPostFillCallback" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\NGUI\Scripts\Internal\UIWidget.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Enum Name="UIWidget.AspectRatioSource" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\NGUI\Scripts\Internal\UIWidget.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Delegate Name="UIWidget.HitCheck" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\NGUI\Scripts\Internal\UIWidget.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAyVkBE2RAUBhGeOULUAQAJgAxEFAhSsIgYQ6UFAA0M=</HashCode>
+      <FileName>Assets\NGUI\Scripts\Internal\UIWidget.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI2DSprite">
+    <Position X="1" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQBAQQBAAAQIEAIABAIEAAACAEQACAAEFAAAg=</HashCode>
+      <FileName>Assets\NGUI\Scripts\UI\UI2DSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UILabel" Collapsed="true">
+    <Position X="7.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>TwIgsBC2DQ5By+NKckMYEYIjHODObNYdsihAAgHameQ=</HashCode>
+      <FileName>Assets\NGUI\Scripts\UI\UILabel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIPanel" Collapsed="true">
+    <Position X="9.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Chxcg8BeAAVA1MwRWGAwIAErREYPcIyMHQCSYAmlGUQ=</HashCode>
+      <FileName>Assets\NGUI\Scripts\UI\UIPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UISprite">
+    <Position X="6" Y="13.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAQAIAQAAQACAAASIAAQABEAAAAADQEQABAAAlAAAg=</HashCode>
+      <FileName>Assets\NGUI\Scripts\UI\UISprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UITexture">
+    <Position X="1" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQBAQwAABAAIAAAABAIEAAACAEAACEAEFAAAQ=</HashCode>
+      <FileName>Assets\NGUI\Scripts\UI\UITexture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NGUIHoverEventTest" Collapsed="true">
+    <Position X="14.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAACAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TestScripts\NGUIHoverEventTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
